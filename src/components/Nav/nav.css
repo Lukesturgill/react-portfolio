@@ -10,7 +10,7 @@ h1{
     top: 0;
     background-color: aliceblue;
     opacity: 100%;
-    z-index: 0;
+    z-index: 9999;
   }
  
   .header ul {
