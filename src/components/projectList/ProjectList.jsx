@@ -1,6 +1,11 @@
-import Projects from "../projects/Projects"
+import Project1 from "../projects/Projects"
+import Project2 from "../projects/Projects2"
+import Project3 from "../projects/Project3"
+import Project4 from "../projects/Project4"
+import Project5 from "../projects/Project5"
+import Project6 from "../projects/Project6"
 import "./projectList.css"
-import {projects} from "../../data"
+
 
 const ProjectList = () => {
   return (
@@ -12,12 +17,12 @@ const ProjectList = () => {
             </p>
         </div>
        <div className="pl-list">
-            {projects.map((item) => (
-                 <Projects
-                 key={item.id} 
-                 img={item.img}
-                link={item.link} />
-             ))};
+         <Project1 />
+         <Project2 />
+         <Project3 />
+         <Project4 />
+         <Project5 />
+         <Project6 />
         </div>
     </div>
   );

@@ -16,7 +16,7 @@ export const projects = [
     },
     {
         id: 4,
-        img: "locally.png",
+        img: "",
         link: "https://safe-anchorage-05872.herokuapp.com/"
     },
     {
@@ -26,7 +26,8 @@ export const projects = [
     },
     {
         id: 6,
-        img: "budget-tracker.png",
+        img: [],
         link: "https://stark-ravine-58698.herokuapp.com/"
     },
 ]
+//images: [`${url}/images/${products[i].image}`]`budget-tracker.png`
