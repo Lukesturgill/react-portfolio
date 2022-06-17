@@ -1,0 +1,39 @@
+h1{
+    font-size: 3rem;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: aliceblue;
+    opacity: 100%;
+    z-index: 0;
+  }
+ 
+  .header ul {
+    display: flex;
+    list-style: none;
+    margin: 20px 0px;
+  }
+ 
+  .header ul li{
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+ 
+  .header ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 8px 25px;
+    transition: all .5s ease;
+  }
+ 
+  .header ul li a:hover{
+    background-color: rgb(115, 235, 235);
+    color: black;
+    box-shadow: 0 0 10px rgb(138, 130, 130);
+    border-radius: 2px;
+  }

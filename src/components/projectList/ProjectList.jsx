@@ -11,7 +11,7 @@ const ProjectList = () => {
   return (
     <div className="pl">
         <div className="pl-texts">
-            <h1 className="pl-title">My Projects</h1>
+            <h1 id="portfolio" className="pl-title">My Projects</h1>
             <p className="pl-desc">
                 yadyaydyaydyadyydyadyydadyadyaydyad
             </p>
