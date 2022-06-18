@@ -8,9 +8,9 @@ const Intro = () => {
                 <div className="i-left-wrapper">
                     <h2 className="intro-name">Hello, my name is</h2>
                     <h1 className="name">Luke Sturgill</h1>
+                    <p className="intro-disc">Languages I know include:</p>
                     <div className="intro-title">
                         <div className="i-title-wrapper">
-                            <div className="i-title-item">Full Stack Web Developer</div>
                             <div className="i-title-item">HTML</div>
                             <div className="i-title-item">CSS</div>
                             <div className="i-title-item">JavaScript</div>
@@ -21,7 +21,7 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="intro-disc">
-                       placeholder placeholder placeholder finish discription I'm an aspiring full stack web developer, with knowledge in HTML, CSS, JavaScript, SQL, React, Node.js, and more. PLaceholder PLaceholder etc 
+                        I took part in a 24 week Full-Stack Web Development bootcamp through the University of Utah to pursue a career in the development and tech industry. My goal is to get a position as a Junior Web Developer and continue to learn more about programming languages, as well as master the ones I have experience with now.
                     </p>
                 </div>
             </div>

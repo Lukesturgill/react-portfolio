@@ -50,7 +50,7 @@ const Contact = () => {
                             alt="linked in"
                             className="c-icon"
                             />
-                            LinkedIn
+                            <a href="https://www.linkedin.com/in/luke-sturgill-b0391a162/">LinkedIn</a>
                         </div>
                     </div>
                 </div>

@@ -50,17 +50,8 @@
 }
 
 @keyframes move {
-    25%{
-        transform: translateY(-50%);
-    }
-    50%{
-        transform: translateY(-100%);
-    }
-    75%{
-        transform: translateY(-150%);
-    }
     100%{
-        transform: translateY(-200%);
+        transform: translateY(-600%);
     }
 }
 
@@ -88,4 +79,9 @@
     position: absolute;
     top: 0;
     right: 0;
+}
+
+.intro-disc{
+    font-weight: 400;
+    font-size: 20px;
 }

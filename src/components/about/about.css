@@ -5,7 +5,7 @@
    background-color: aliceblue;
 }
 
-.about_left{
+.about-left{
     flex: 1;
     display: flex;
     align-items: center;
@@ -14,20 +14,22 @@
     height: 100%;
 }
 
-.about_right{
+.about-right{
     flex: 1;
+    font-size: 20px;
+    padding-right: 35px;
 }
 
 .about-card.bg{
-    position: relative;
-    top: 50px;
-    left: 50px;
-    background-color: #333;
+    position: absolute;
+    top: 180px;
+    left: 90px;
+    background-color: rgb(70, 69, 69);
 }
 
 .about-card{
     width: 60%;
-    height: 70vh;
+    height: 60vh;
     border-radius: 30px;
     position: relative;
     overflow: hidden;

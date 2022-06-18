@@ -32,7 +32,7 @@ h1{
   }
  
   .header ul li a:hover{
-    background-color: rgb(115, 235, 235);
+    background-color: rgb(25, 201, 171);
     color: black;
     box-shadow: 0 0 10px rgb(138, 130, 130);
     border-radius: 2px;

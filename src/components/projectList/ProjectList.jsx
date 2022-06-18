@@ -13,7 +13,7 @@ const ProjectList = () => {
         <div className="pl-texts">
             <h1 id="portfolio" className="pl-title">My Projects</h1>
             <p className="pl-desc">
-                yadyaydyaydyadyydyadyydadyadyaydyad
+                Below you will find a few projects I've made throughout my course, if you would like to see more, you can visit my <a href="https://github.com/Lukesturgill">Github</a> profile.
             </p>
         </div>
        <div className="pl-list">
