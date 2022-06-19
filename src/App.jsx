@@ -1,19 +1,26 @@
-import Intro from "./components/intro/Intro";
+import Home from "./components/intro/Intro";
 import About from "./components/about/About";
-import ProjectList from "./components/projectList/ProjectList";
+import Portfolio from "./components/projectList/ProjectList";
 import Nav from "./components/Nav/Nav";
 import Contact from "./components/contact/Contact";
 import Resume from "./components/resume/Resume";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
-const App = () => {
-  return <div>
+function App () {
+  return (
+  <BrowserRouter>
+  <div>
     <Nav/>
-    <Intro/>
-    <About/>
-    <ProjectList/>
-    <Resume/>
-    <Contact/>
-    </div>;
+    <Routes>
+      <Route path="/Home" element={<Home/>}/>
+      <Route path="/About" element={<About/>}/>
+      <Route path="/Portfolio" element={<Portfolio/>}/>
+      <Route path="/Resume" element={<Resume/>}/>
+      <Route path="/Contact" element={<Contact/>}/>
+    </Routes>
+    </div>
+    </BrowserRouter>
+  );
 };
 
 export default App;
