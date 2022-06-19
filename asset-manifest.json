@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.54a2b7a7.css",
+    "main.js": "/react-portfolio/static/js/main.b8c07603.js",
+    "static/media/wine-n-dine.png": "/react-portfolio/static/media/wine-n-dine.feacd5f46a5a1a3334dd.png",
+    "static/media/me.png": "/react-portfolio/static/media/me.e1941bb25a28d74084c9.png",
+    "static/media/about-me.png": "/react-portfolio/static/media/about-me.1c776e8f314028570c42.png",
+    "static/media/locally.png": "/react-portfolio/static/media/locally.41bc50053e87e5bee67c.png",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.6b96bef4b548fa3b7cec.png",
+    "static/media/Luke Resume Final.pdf": "/react-portfolio/static/media/Luke Resume Final.87ea6baabd901ad631ae.pdf",
+    "static/media/budget-tracker.png": "/react-portfolio/static/media/budget-tracker.745a1f01209392e65b4c.png",
+    "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.5b351cd3f141f90fc371.png",
+    "static/media/employee-tracker.png": "/react-portfolio/static/media/employee-tracker.bdf43ed77ffb94d57cfc.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.54a2b7a7.css.map": "/react-portfolio/static/css/main.54a2b7a7.css.map",
+    "main.b8c07603.js.map": "/react-portfolio/static/js/main.b8c07603.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a2b7a7.css",
+    "static/js/main.b8c07603.js"
+  ]
+}
