@@ -11,7 +11,7 @@ You'll find a short section about my journey into web development, a few of the 
 * JavaScript
 
 ## Demo
-![Application screenshot](https://github.com/Lukesturgill/react-portfolio/blob/main/portfolio/src/img/appscreenshot.png?raw=true)
+![Application screenshot](https://github.com/Lukesturgill/react-portfolio/blob/main/src/img/appscreenshot.png?raw=true)
 
 ## Live Application
 * https://lukesturgill.github.io/Home
