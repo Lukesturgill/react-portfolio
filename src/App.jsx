@@ -3,7 +3,7 @@ import About from "./components/about/About";
 import ProjectList from "./components/projectList/ProjectList";
 import Nav from "./components/Nav/Nav";
 import Contact from "./components/contact/Contact";
-import Resume from "./components/resume/Resume"
+import Resume from "./components/resume/Resume";
 
 const App = () => {
   return <div>
