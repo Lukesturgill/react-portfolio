@@ -14,7 +14,7 @@ You'll find a short section about my journey into web development, a few of the 
 ![Application screenshot](https://github.com/Lukesturgill/react-portfolio/blob/main/src/img/appscreenshot.png?raw=true)
 
 ## Live Application
-* https://lukesturgill.github.io/Home
+* https://lukesturgill.github.io/react-portfolio/
 
 ## Contribution
 Luke Sturgill
