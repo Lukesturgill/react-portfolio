@@ -1,0 +1,27 @@
+.resume{
+    height: 100vh;
+    background-color: aliceblue;
+    padding-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.r-title{
+   padding: 15px;
+   font-weight: 500;
+}
+
+.dwnload{
+   font-weight: 400;
+   padding-bottom: 20px;
+}
+
+.r-info-items{
+   font-weight: 300;
+}
+
+.r-list{
+    font-size: 20px;
+}
+
