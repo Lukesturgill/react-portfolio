@@ -11,6 +11,9 @@ const Nav = () => {
            <nav>
            <ul>
                 <li>
+                   <Link exact to="/">Home</Link>
+                </li>
+                <li>
                     <Link to="/About">About Me</Link>
                 </li>
                 <li>
