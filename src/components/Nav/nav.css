@@ -37,3 +37,27 @@ h1{
     box-shadow: 0 0 10px rgb(138, 130, 130);
     border-radius: 2px;
   }
+
+  @media screen and (max-width:480px){
+    .main{
+        display: none;
+    }
+
+    .header ul {
+        display: flex;
+        flex-wrap: wrap;
+		margin: 0;
+		padding: 0;
+        width: 100vh;
+	}
+
+	.header li {
+        width: 100vh;
+	}
+
+	.header a {
+		display: inline-block;
+		padding: 1em;
+		text-decoration: none;
+	}
+}
